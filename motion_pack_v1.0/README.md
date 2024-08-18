@@ -2,14 +2,17 @@
 
 This is an initial prototype to add rocketry sensors to a [Heltec Wireless Tracker Version 1.1](https://heltec.org/project/wireless-tracker/)
 
-> :no_entry: **THIS IS A PROTOTYPE**: Hardware changes are required following integration test
+> :no_entry: **THIS IS A PROTOTYPE**
+> Hardware changes are required following integration test
 
 ## Appearance
 
-Front
+**Front**
+
 ![Front](front.jpg)
 
-Back
+**Back**
+
 ![Front](front.jpg)
 
 ## Features
