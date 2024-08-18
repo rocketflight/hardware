@@ -2,6 +2,18 @@
 
 This is an initial prototype to add rocketry sensors to a [Heltec Wireless Tracker Version 1.1](https://heltec.org/project/wireless-tracker/)
 
+> :no_entry: **THIS IS A PROTOTYPE**: Hardware changes are required following integration test
+
+## Appearance
+
+Front
+![Front](front.jpg)
+
+Back
+![Front](front.jpg)
+
+## Features
+
 The board includes:
 
 - Bosch Sensortec BMP-388 altimeter
@@ -10,5 +22,3 @@ The board includes:
 - 16Mb SPI NOR RAM
 - piezo buzzer
 - power and level shifting
-
-> :no_entry: **This is a Prototype**: Hardware changes are required following integration test:
