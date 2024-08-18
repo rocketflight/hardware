@@ -1,0 +1,59 @@
+{
+  "path": "Offline/motion_pack_v1.1",
+  "foldername": "motion_pack_v1.1",
+  "name": "motion_pack_v1.1",
+  "title": "motion_pack_v1.1",
+  "uuid": "5fc5b80e18616f868a31c1433aac1ab3",
+  "created_at": "2024-08-18 15:32:46",
+  "updated_at": "2024-08-18 15:41:35",
+  "documents": [
+    {
+      "uuid": "cb1ab15b18fc77e0ea83a419561697df",
+      "title": "Sensors",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "updateTime": 1723959695,
+      "createTime": 1723959695,
+      "histories": [],
+      "created_at": "2024-08-18 15:41:35",
+      "updated_at": "2024-08-18 15:41:35"
+    },
+    {
+      "uuid": "8d9f23ca0cc1f52ffa393ee2579e5f56",
+      "title": "Board",
+      "description": "",
+      "docType": 1,
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "updateTime": 1723959695,
+      "createTime": 1723959695,
+      "histories": [],
+      "created_at": "2024-08-18 15:41:35",
+      "updated_at": "2024-08-18 15:41:35"
+    },
+    {
+      "uuid": "5e30b536efed7cea21e74a6f43a834e2",
+      "title": "PCB",
+      "filename": "PCB.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "updateTime": 1723958695,
+      "createTime": 1723958695,
+      "histories": [],
+      "created_at": "2024-08-18 15:24:55",
+      "updated_at": "2024-08-18 15:24:55"
+    }
+  ],
+  "content": "",
+  "stick": "",
+  "sort": [
+    "cb1ab15b18fc77e0ea83a419561697df",
+    "8d9f23ca0cc1f52ffa393ee2579e5f56"
+  ],
+  "schfilename": "SCH.json",
+  "schfilemtime": 1723959695330
+}

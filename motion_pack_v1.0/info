@@ -1,0 +1,601 @@
+{
+  "path": "Offline/motion_pack_v1.0",
+  "foldername": "motion_pack_v1.0",
+  "name": "motion_pack_v1.0",
+  "title": "motion_pack_v1.0",
+  "uuid": "8c910f5b9882d62881f96d237f99ce08",
+  "created_at": "2024-08-18 15:32:45",
+  "updated_at": "2024-08-18 15:54:03",
+  "documents": [
+    {
+      "uuid": "753ec276e40e306b5f1b2d752f5a055a",
+      "title": "Sensors",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "updateTime": 1723960437,
+      "createTime": 1723959218,
+      "histories": [],
+      "created_at": "2024-08-18 15:33:38",
+      "updated_at": "2024-08-18 15:53:57",
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "W25Q128JVSIQTR",
+          1,
+          "SOIC-8_L5.3-W5.3-P1.27-LS8.0-BL",
+          "128MB",
+          {
+            "Manufacturer Part": "W25Q128JVSIQ",
+            "Manufacturer": "WINBOND(华邦)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C97521"
+          }
+        ],
+        [
+          "4000Hz",
+          1,
+          "BUZ-SMD_FST-9018",
+          "BUZZER",
+          {
+            "Manufacturer Part": "FUET-9018",
+            "Manufacturer": "FUET(福声科技)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C391035"
+          }
+        ],
+        [
+          "100nF",
+          7,
+          "C0402",
+          "C1,C2,C5,C7,C14,C15,C19",
+          {
+            "Manufacturer Part": "CL05B104KO5NNNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1525"
+          }
+        ],
+        [
+          "10uF",
+          2,
+          "C0603",
+          "C8,C13",
+          {
+            "Manufacturer Part": "CL10A106MA8NRNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C96446"
+          }
+        ],
+        [
+          "1N4148WS T4",
+          1,
+          "SOD-323_L1.8-W1.3-LS2.5-RD",
+          "D4",
+          {
+            "Manufacturer Part": "1N4148WS",
+            "Manufacturer": "CJ(江苏长电/长晶)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2128"
+          }
+        ],
+        [
+          "MAX17048G+T10",
+          1,
+          "DFN-8_L2.0-W2.0-P0.50-BL-EP",
+          "FUEL_GAUGE",
+          {
+            "Manufacturer Part": "MAX17048G+T10",
+            "Manufacturer": "ADI(亚德诺)/MAXIM(美信)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2682616"
+          }
+        ],
+        [
+          "M3-MOUNT-HOLE",
+          2,
+          "M3-MOUNT-HOLE",
+          "H1,H2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "ICM-20948",
+          1,
+          "QFN-24_L3.0-W3.0-P0.40-BL-EP",
+          "MPU",
+          {
+            "Manufacturer Part": "ICM-20948",
+            "Manufacturer": "TDK InvenSense(应美盛)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C726001"
+          }
+        ],
+        [
+          "S8050_C2146",
+          1,
+          "SOT-23-3_L3.0-W1.7-P0.95-LS2.9-BR",
+          "Q3",
+          {
+            "Manufacturer Part": "S8050 J3Y",
+            "Manufacturer": "CJ(江苏长电/长晶)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2146"
+          }
+        ],
+        [
+          "1kΩ",
+          1,
+          "R0603",
+          "R7",
+          {
+            "Manufacturer Part": "0603WAF1001T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C21190"
+          }
+        ],
+        [
+          "10kΩ",
+          2,
+          "R0402",
+          "R9,R10",
+          {
+            "Manufacturer Part": "0402WGF1002TCE",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C25744"
+          }
+        ],
+        [
+          "HELTEC WIRELESS TRACKER BOARD",
+          1,
+          "HELTEC WIRELESS TRACKER BOARD",
+          "U1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "BMP388",
+          1,
+          "SENSORM-SMD_BMP388",
+          "U2",
+          {
+            "Manufacturer Part": "BMP388",
+            "Manufacturer": "Bosch(博世)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C779278"
+          }
+        ],
+        [
+          "BATTERY_IN_+VE",
+          1,
+          "MYSOLDERPAD1.5X2.5",
+          "U3",
+          {
+            "Manufacturer Part": "PAD_5.84mm×1.54mm×0.8mm",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": "C9900000335"
+          }
+        ],
+        [
+          "BATTERY_IN_GND",
+          1,
+          "MYSOLDERPAD1.5X2.5",
+          "U4",
+          {
+            "Manufacturer Part": "PAD_5.84mm×1.54mm×0.8mm",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": "C9900000335"
+          }
+        ],
+        [
+          "AMS1117-1.8V",
+          1,
+          "SOT-89-3_L4.5-W2.5-P1.50-LS4.1-BR",
+          "U5",
+          {
+            "Manufacturer Part": "AMS1117-1.8V",
+            "Manufacturer": "MSKSEMI(美森科)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5120766"
+          }
+        ],
+        [
+          "TXS0104EPWR",
+          1,
+          "TSSOP-14_L5.0-W4.4-P0.65-LS6.4-BL",
+          "U6",
+          {
+            "Manufacturer Part": "TXS0104EPWR",
+            "Manufacturer": "TI(德州仪器)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C44955"
+          }
+        ],
+        [
+          "BATTERY_OUT_GND",
+          1,
+          "MYSOLDERPAD1.5X2.5",
+          "U7",
+          {
+            "Manufacturer Part": "PAD_5.84mm×1.54mm×0.8mm",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": "C9900000335"
+          }
+        ],
+        [
+          "BATTERY_OUT_+VE",
+          1,
+          "MYSOLDERPAD1.5X2.5",
+          "U8",
+          {
+            "Manufacturer Part": "PAD_5.84mm×1.54mm×0.8mm",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": "C9900000335"
+          }
+        ],
+        [
+          "DATA LOGGER",
+          1,
+          "DATA LOGGER COPY",
+          "U9",
+          {
+            "Manufacturer Part": "Sparkfun",
+            "Manufacturer": "Sparkfun",
+            "Supplier": "Sparkfun",
+            "Supplier Part": "https://www.sparkfun.com/products/13712"
+          }
+        ]
+      ],
+      "components": {
+        "444eb523f1484933b5b11c95fe142b6a": 1,
+        "ca94110f4544769d36adda4b0515e409": 11,
+        "9270cc2ff94941c59ab0034367386e18": 1,
+        "c2e807ee87db91caef0cb4a6ad38a339": 1,
+        "6c2bedbae9fbd358441dfb9948555b9c": 3,
+        "597701dbde98d3183fe5df5fb870ec57": 1,
+        "dc7e982d084b4ca28d73f2e365d5a8e8": 1,
+        "1fa8d89c0262e7e7b8f04c3b3b52fd36": 1,
+        "a81a6635490840b4be06e434a4962f33": 1,
+        "466d3008d6394612ad17320259f692ec": 1,
+        "5563491116b5449a9a46d9ad40c4d199": 2,
+        "8735de69efac4a0088484044cc85c3b3": 1,
+        "abc8efbbe6334a1a93f69a375c89a50e": 2,
+        "5fb42675e8084b918cf5045b43722a0b": 1,
+        "3cf10322e52e474287d6b39584b9e919": 1,
+        "9417f5e88fd948ca9c3011930d123591": 4,
+        "eab4dbe28c194ec8bb1baf9f9c72473b": 1
+      }
+    },
+    {
+      "uuid": "5973fc0b86f34706a0ce63956228a3a8",
+      "title": "Board",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "updateTime": 1723960443,
+      "createTime": 1723959218,
+      "histories": [],
+      "created_at": "2024-08-18 15:33:38",
+      "updated_at": "2024-08-18 15:54:03",
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "W25Q128JVSIQTR",
+          1,
+          "SOIC-8_L5.3-W5.3-P1.27-LS8.0-BL",
+          "128MB",
+          {
+            "Manufacturer Part": "W25Q128JVSIQ",
+            "Manufacturer": "WINBOND(华邦)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C97521"
+          }
+        ],
+        [
+          "4000Hz",
+          1,
+          "BUZ-SMD_FST-9018",
+          "BUZZER",
+          {
+            "Manufacturer Part": "FUET-9018",
+            "Manufacturer": "FUET(福声科技)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C391035"
+          }
+        ],
+        [
+          "100nF",
+          7,
+          "C0402",
+          "C1,C2,C5,C7,C14,C15,C19",
+          {
+            "Manufacturer Part": "CL05B104KO5NNNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1525"
+          }
+        ],
+        [
+          "10uF",
+          2,
+          "C0603",
+          "C8,C13",
+          {
+            "Manufacturer Part": "CL10A106MA8NRNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C96446"
+          }
+        ],
+        [
+          "1N4148WS T4",
+          1,
+          "SOD-323_L1.8-W1.3-LS2.5-RD",
+          "D4",
+          {
+            "Manufacturer Part": "1N4148WS",
+            "Manufacturer": "CJ(江苏长电/长晶)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2128"
+          }
+        ],
+        [
+          "MAX17048G+T10",
+          1,
+          "DFN-8_L2.0-W2.0-P0.50-BL-EP",
+          "FUEL_GAUGE",
+          {
+            "Manufacturer Part": "MAX17048G+T10",
+            "Manufacturer": "ADI(亚德诺)/MAXIM(美信)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2682616"
+          }
+        ],
+        [
+          "M3-MOUNT-HOLE",
+          2,
+          "M3-MOUNT-HOLE",
+          "H1,H2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "ICM-20948",
+          1,
+          "QFN-24_L3.0-W3.0-P0.40-BL-EP",
+          "MPU",
+          {
+            "Manufacturer Part": "ICM-20948",
+            "Manufacturer": "TDK InvenSense(应美盛)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C726001"
+          }
+        ],
+        [
+          "S8050_C2146",
+          1,
+          "SOT-23-3_L3.0-W1.7-P0.95-LS2.9-BR",
+          "Q3",
+          {
+            "Manufacturer Part": "S8050 J3Y",
+            "Manufacturer": "CJ(江苏长电/长晶)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2146"
+          }
+        ],
+        [
+          "1kΩ",
+          1,
+          "R0603",
+          "R7",
+          {
+            "Manufacturer Part": "0603WAF1001T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C21190"
+          }
+        ],
+        [
+          "10kΩ",
+          2,
+          "R0402",
+          "R9,R10",
+          {
+            "Manufacturer Part": "0402WGF1002TCE",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C25744"
+          }
+        ],
+        [
+          "HELTEC WIRELESS TRACKER BOARD",
+          1,
+          "HELTEC WIRELESS TRACKER BOARD",
+          "U1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "BMP388",
+          1,
+          "SENSORM-SMD_BMP388",
+          "U2",
+          {
+            "Manufacturer Part": "BMP388",
+            "Manufacturer": "Bosch(博世)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C779278"
+          }
+        ],
+        [
+          "BATTERY_IN_+VE",
+          1,
+          "MYSOLDERPAD1.5X2.5",
+          "U3",
+          {
+            "Manufacturer Part": "PAD_5.84mm×1.54mm×0.8mm",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": "C9900000335"
+          }
+        ],
+        [
+          "BATTERY_IN_GND",
+          1,
+          "MYSOLDERPAD1.5X2.5",
+          "U4",
+          {
+            "Manufacturer Part": "PAD_5.84mm×1.54mm×0.8mm",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": "C9900000335"
+          }
+        ],
+        [
+          "AMS1117-1.8V",
+          1,
+          "SOT-89-3_L4.5-W2.5-P1.50-LS4.1-BR",
+          "U5",
+          {
+            "Manufacturer Part": "AMS1117-1.8V",
+            "Manufacturer": "MSKSEMI(美森科)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5120766"
+          }
+        ],
+        [
+          "TXS0104EPWR",
+          1,
+          "TSSOP-14_L5.0-W4.4-P0.65-LS6.4-BL",
+          "U6",
+          {
+            "Manufacturer Part": "TXS0104EPWR",
+            "Manufacturer": "TI(德州仪器)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C44955"
+          }
+        ],
+        [
+          "BATTERY_OUT_GND",
+          1,
+          "MYSOLDERPAD1.5X2.5",
+          "U7",
+          {
+            "Manufacturer Part": "PAD_5.84mm×1.54mm×0.8mm",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": "C9900000335"
+          }
+        ],
+        [
+          "BATTERY_OUT_+VE",
+          1,
+          "MYSOLDERPAD1.5X2.5",
+          "U8",
+          {
+            "Manufacturer Part": "PAD_5.84mm×1.54mm×0.8mm",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": "C9900000335"
+          }
+        ],
+        [
+          "DATA LOGGER",
+          1,
+          "DATA LOGGER COPY",
+          "U9",
+          {
+            "Manufacturer Part": "Sparkfun",
+            "Manufacturer": "Sparkfun",
+            "Supplier": "Sparkfun",
+            "Supplier Part": "https://www.sparkfun.com/products/13712"
+          }
+        ]
+      ],
+      "components": {
+        "df2cf84983234fe496bf45b1ade55760": 1,
+        "552a0baeb99a420e843a821b79d9b9e1": 1
+      }
+    },
+    {
+      "uuid": "ea9fa023b395be4ac172ffb0ceaae0f5",
+      "title": "PCB",
+      "filename": "PCB.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "updateTime": 1723960429,
+      "createTime": 1723958582,
+      "histories": [],
+      "created_at": "2024-08-18 15:23:02",
+      "updated_at": "2024-08-18 15:53:49",
+      "components": {
+        "e3c69ea0c62748e384aed0e00fc37e93": 1,
+        "23963262e895473595853a6c6019101c": 1,
+        "cf7cc45c764f42cc81cd003845f4626f": 1,
+        "5b15246c42214f8f86ca4c184b4353e3": 1,
+        "34703ac6262248b59c49fb208e745415": 4,
+        "0821ed6ea50c44f4909e4be7610e4198": 7,
+        "f8151fdc728a41ebbc304e11d39e5437": 2,
+        "80a3980f11914ca3a11dea6a81230c3d": 1,
+        "591ac8165c13488188e56dadcf97b781": 1,
+        "408fea87e4bd474cb4b4d2e61363c49d": 1,
+        "f362b0d0cde14366b93e1e3818c9c2b2": 1,
+        "a749997eca484d4bbe9addb217c112e5": 2,
+        "4e37ebaa3ef74e97938201a6e6cb0591": 1,
+        "bd854e59c1244352ac062e278ddab5ef": 1,
+        "1fb6146406a34819a86e33d73e7677db": 1,
+        "fdf2396de7694c3e8177c1c94fe2bbcd": 1,
+        "398691f1f785460098bbe5ee6590333c": 1,
+        "fafd024f554e426eb74cf4a204aa88b0": 2,
+        "dd3cfd4941c4479cb7f2c598e6fde06c": 1
+      }
+    }
+  ],
+  "content": "",
+  "stick": "",
+  "sort": [
+    "753ec276e40e306b5f1b2d752f5a055a",
+    "5973fc0b86f34706a0ce63956228a3a8"
+  ],
+  "schfilename": "SCH.json",
+  "schfilemtime": 1723960443786
+}
