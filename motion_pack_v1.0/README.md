@@ -11,4 +11,6 @@ The board includes:
 - piezo buzzer
 - power and level shifting
 
-> :no_entry: **This is a Prototype**: Hardware changes are required following integration test:
+> :no_entry: **This is a Prototype**: Hardware changes are required following integration test
+
+![alt text](front.png)
