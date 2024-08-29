@@ -5,6 +5,8 @@ This is an initial prototype to add rocketry sensors to a [Heltec Wireless Track
 > :no_entry: **THIS IS A PROTOTYPE**
 > Hardware changes are required following integration test
 
+To open the files use EasyEDA from [https://easyeda.com/page/download](https://easyeda.com/page/download)
+
 ## Features
 
 The board includes:
